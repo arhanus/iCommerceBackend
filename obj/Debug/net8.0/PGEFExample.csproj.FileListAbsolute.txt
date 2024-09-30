@@ -6,7 +6,6 @@ C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.csproj.CoreCom
 C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\appsettings.json
 C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\PGEFExample.exe
 C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\PGEFExample.deps.json
 C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\PGEFExample.runtimeconfig.json
@@ -103,3 +102,5 @@ C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\refint\PGEFExample.dll
 C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.pdb
 C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.genruntimeconfig.cache
 C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\ref\PGEFExample.dll
+C:\Users\arhan\Documents\PGEFExample\obj\Debug\net8.0\PGEFExample.sourcelink.json
+C:\Users\arhan\Documents\PGEFExample\bin\Debug\net8.0\appsettings.json
