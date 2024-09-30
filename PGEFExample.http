@@ -1,0 +1,6 @@
+@PGEFExample_HostAddress = http://localhost:5254
+
+GET {{PGEFExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
